@@ -1,7 +1,7 @@
 #Write a file
 
 
-text="yaz yaz bi kenara"
+text="Hello Bro"
 
 with open ('C:\\Users\\AsusRogStrix\\Desktop\\test.txt','a') as file:
     file.write(text)
